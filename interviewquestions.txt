@@ -7,3 +7,33 @@ Connect nodejs and mongodbdatabase with mongoose
 Update Records
 Delete Records
 Find and Read Result
+
+Upload File in nodejs
+1. install Multer npm Package
+2. Make Router for upload File
+3. Write Code for upload File
+4. 
+Kya hum with multer pkg ke file upload kar sakte hain
+ans: Yes, but need to write more code. using createReadStream() kar sakte hain
+
+
+==========================================================================================
+OS Module in Node js
+
+1. what is OS Module
+2. Important functions of OS Module
+=========================================================================================
+Events and Event Emitter in Node js
+1. What is Events and Event Emitter
+2. Make an event  and call it
+3. 
+=========================================================================================
+
+REPL(Read-Eval-Print-Loop)
+1. What is REPL
+2. Example of REPL
+3. write a program in cmd
+using steps command:
+1. node
+2. .editor->if you want to write code as in editor then use .editor command in cmd
+3. clt+d exit from editor mode then call your function
